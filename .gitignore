@@ -1,0 +1,8 @@
+# Environment
+venv
+
+# IDE
+.idea
+
+# DB
+db.sqlite3
